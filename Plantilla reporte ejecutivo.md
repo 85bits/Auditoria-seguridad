@@ -37,12 +37,12 @@
 
 > Gráfico sugerido: Pastel o barra para clasificar el cumplimiento en categorías.
 
-| Categoria      | Hallazgo           | Impacto           | Prioridad           |
-|-------------|---------------|---------------|
-| Gestión de accesos    | Descripción halllazgo          | Alto          | 🔴 Alta          |
-| Actualización de SW    | Descripción halllazgo          | Moderado          | 🔴 Moderada          |
-
 ---
+
+| Categoria      | Hallazgo           | Impacto           | Prioridad           |
+|----------------|--------------------|-------------------|
+| Gestión de accesos    | Descripción halllazgo          | Alto          | 🔴 Alta      |
+| Actualización de SW   | Descripción halllazgo          | Moderado      | 🔴 Moderada  |
 
 ## 6. Resumen de hallazgos significativos y mensajes clave
 - Vulnerabilidades críticas

@@ -7,7 +7,7 @@
 - GDPR https://gdpr-info.eu/
 - CIS Control https://www.cisecurity.org/controls
 - PCI DSS https://listings.pcisecuritystandards.org/documents/PCI-DSS-v4_0-LA.pdf
-- CSA STAR https://cloudsecurityalliance.org/star
+- CSA STAR https://cloudsecurityalliance.org/research/cloud-controls-matrix
 - Mitre D3fend https://d3fend.mitre.org/
 - Mtre Att&ck https://attack.mitre.org/matrices/enterprise/
 - OWASP Application Security Verification Standard (ASVS) https://owasp.org/www-project-application-security-verification-standard/

@@ -44,11 +44,6 @@
 
 ---
 
-| Categoria      | Hallazgo           | Impacto           | Prioridad           |
-|----------------|--------------------|-------------------|
-| Gestión de accesos    | Descripción halllazgo          | Alto          | 🔴 Alta      |
-| Actualización de SW   | Descripción halllazgo          | Moderado      | 🔴 Moderada  |
-
 ## 6. Resumen de hallazgos significativos y mensajes clave
 - Vulnerabilidades críticas
 - Mensajes Claves: Recomendaciones prácticas priorizadas.

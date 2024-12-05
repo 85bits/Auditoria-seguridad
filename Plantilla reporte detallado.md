@@ -1,4 +1,10 @@
-# Plantilla base reporte ejecutivo auditoria
+# Plantilla base reporte detallado auditoria
+
+## Portada del reporte
+- Título del informe
+- Fecha de emisión
+- Autor
+- Confidencialidad
 
 ## 1. Objetivo
 ### Definición del propósito del ejercicio de auditoría
@@ -6,9 +12,10 @@
 
 ## 2. Alcance
 ### Ámbito de la auditoría: Defina los límites y áreas revisadas, el periodo evaluado, y las dependencias o procesos específicos.
-- Cobertura
-- Período [Especificar fechas]
-- Criterios de referencia
+- Áreas revisadas
+- Período de evaluación [Especificar fechas]
+- Entorno [Sobre que se revisó]
+- Criterios de referencia [Normativa aplicada]
 
 ## 3. Contexto
 ### Resumen de la actividad auditada y metodología aplicada
@@ -26,33 +33,13 @@
 
 ---
 
-## 5. Resultados generales del ejercicio
-### Presente un resumen general del desempeño auditado.
-- Resumen: Presentación clara de la efectividad general de los controles.
-- Puntos críticos
--- Uso de viñetas para resaltar las principales observaciones.
--- Clasificación visual con colores (verde: bajo riesgo; amarillo: moderado; rojo: crítico).
+## 5. Resumen de hallazgos
 
----
-
-> Gráfico sugerido: Pastel o barra para clasificar el cumplimiento en categorías junto a la tabla de impacto prioridad
-
-| Categoria     | Hallazgo             | Impacto           | Priordad           |
-|-------------|---------------|---------------|---------------|
-| Gestión de accesos    | Descripción halllazgo          | Alto          | 🔴 Alta          |
-| Actualización de SW    | Descripción halllazgo         | Moderado          | 🟠 Moderada          |
-
----
-
-## 6. Resumen de hallazgos significativos y mensajes clave
-- Vulnerabilidades críticas
-- Mensajes Claves: Recomendaciones prácticas priorizadas.
-
-| Hallazgo      | Descripción           | Nivel criticidad           |
-|-------------|---------------|---------------|
-| hallazgo 1    | Descripción halllazgo 1          | 🔴 Nivel del hallazgo 1          |
-| hallazgo 2    | Descripción halllazgo 2          | 🟠 Nivel del hallazgo 2          |
-| hallazgo 3    | Descripción halllazgo 3          | 🟢 Nivel del hallazgo 3          |
+| ID      | Hallazgo      | Declaración de hechos           | Nivel criticidad           | Referencia normativa           | Recomendaciones           |
+|-------------|-------------|---------------|---------------|---------------|---------------|
+| ID1   | hallazgo 1    | Descripción halllazgo 1          | 🔴 Nivel del hallazgo 1          | ISO 27001 A.13.1.1 / CVE-XXXX          | Recomendación hallazgo 1          |
+| ID2    | hallazgo 2    | Descripción halllazgo 2          | 🟠 Nivel del hallazgo 2          | CIS Control 5 / CVE-YYYY          | Recomendación hallazgo 2          |
+| ID3    | hallazgo 3    | Descripción halllazgo 3          | 🟢 Nivel del hallazgo 3          | NIST CSF ID.RA-1          | Recomendación hallazgo 3          |
 
 ---
 
@@ -68,14 +55,18 @@
 
 ---
 
-## 7. Conclusiones
+## 6. Conclusiones
 ### Análisis final de la auditoría y recomendaciones clave
-- Conclusión general: Evaluación general del estado de la seguridad.
-- Recomendaciones principales: Lista de pasos clave para mejorar los controles.
-- Impacto Positivo Esperado: Beneficios esperados al implementar las recomendaciones.
+- Resumen de Observaciones: Breve consolidación de los hallazgos clave, clasificando los más críticos para priorización.
+- Impacto Potencial: Cómo las vulnerabilidades detectadas podrían afectar la continuidad del negocio o el cumplimiento normativo, etc.
+- Acciones Clave Recomendadas: Lista priorizada de intervenciones inmediatas y planificación a mediano plazo.
 
 ---
 
 > Nota: Finalice con gráficos o diagramas que resuman los hallazgos y su criticidad, como un mapa de calor.
 
 ---
+
+## 7. Lista de distribución
+- Dirigido a: [CIO, CISO, directores de áreas críticas, comité de auditoría].
+- Copia a: [Gerentes operativos, líderes de TI].

@@ -35,7 +35,7 @@
 
 ---
 
-> Gráfico sugerido: Pastel o barra para clasificar el cumplimiento en categorías.
+> Gráfico sugerido: Pastel o barra para clasificar el cumplimiento en categorías junto a la tabla de impacto prioridad
 
 | Categoria     | Hallazgo             | Impacto           | Priordad           |
 |-------------|---------------|---------------|---------------|

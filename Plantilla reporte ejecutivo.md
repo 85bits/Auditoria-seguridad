@@ -37,12 +37,10 @@
 
 > Gráfico sugerido: Pastel o barra para clasificar el cumplimiento en categorías.
 
-| Categoría      | Hallazgo           | Impacto           | Prioridad           |
+| Categoria      | Hallazgo           | Impacto           | Prioridad           |
 |-------------|---------------|---------------|
-| Gestión de accesos    | Descripción halllazgo          |Alto  |🔴 Alta  |
-| Actualización de SW    | Descripción halllazgo          |Moderado  |🟠 Moderada  |
-
-
+| Gestión de accesos    | Descripción halllazgo          | Alto          | 🔴 Alta          |
+| Actualización de SW    | Descripción halllazgo          | Moderado          | 🔴 Moderada          |
 
 ---
 

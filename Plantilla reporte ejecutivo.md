@@ -37,11 +37,10 @@
 
 > Gráfico sugerido: Pastel o barra para clasificar el cumplimiento en categorías.
 
-| Hallazgo      | Descripción           | Nivel criticidad           |
+| Categoria     | Hallazgo             | Nivel criticidad           |
 |-------------|---------------|---------------|
-| hallazgo 1    | Descripción halllazgo 1          | 🔴 Nivel del hallazgo 1          |
-| hallazgo 2    | Descripción halllazgo 2          | 🟠 Nivel del hallazgo 2          |
-| hallazgo 3    | Descripción halllazgo 3          | 🟢 Nivel del hallazgo 3          |
+| Gestión de accesos    | Descripción halllazgo          | 🔴 Nivel del hallazgo 1          |
+| Actualización de SW    | Descripción halllazgo         | 🟠 Nivel del hallazgo 2          |
 
 ---
 

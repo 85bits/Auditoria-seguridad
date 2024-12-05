@@ -64,6 +64,8 @@
 | 🟠Naranja    | Moderado          |
 | 🟢Verde    | Leve          |
 
+> Redactar los hallazgos en términos de Condición (qué se encontró) + Criterio (Qué debería existir) + Causa (Diferencia entre criterio y condición) + Efecto/Riesgo (Nivel de riesgo y consecuencia) + Evidencia sustentada (A partir de qué se demuestra lo indicado)
+
 ---
 
 ## 7. Conclusiones
